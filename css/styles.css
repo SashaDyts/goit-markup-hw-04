@@ -17,7 +17,6 @@ body {
   font-family: Roboto, sans-serif;
   letter-spacing: 0.03em;
   color: var(--primary-text-color);
-  /* background-color: orangered; */
 }
 h1,
 h2,
@@ -396,8 +395,17 @@ img {
   display: inline-block;
   margin-top: 9px;
 
+  font-style: normal;
+  font-size: 14px;
+  line-height: 1.71;
+
+  color: var(--primary-white-color);
+}
+
+.footer-contacts .link.contacts {
   color: var(--secondary-white-color);
 }
+
 .footer-contacts .link:hover,
 .footer-contacts .link:focus {
   color: var(--primary-blue-accent-color);
