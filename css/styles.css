@@ -188,7 +188,7 @@ img {
   padding-bottom: 200px;
 
   background-image: linear-gradient(var(--hero-gradient), var(--hero-gradient)),
-    url(./images/heroback.jpg);
+    url(../images/heroback.jpg);
   background-color: var(--hero-footer-bg-color);
 
   text-align: center;
