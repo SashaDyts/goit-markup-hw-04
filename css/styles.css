@@ -190,9 +190,6 @@ img {
   background-image: linear-gradient(var(--hero-gradient), var(--hero-gradient)),
     url(../images/heroback.jpg);
 
-  background-repeat: no-repeat;
-  background-position: center;
-  background-size: cover;
   background-color: var(--hero-footer-bg-color);
 
   text-align: center;
