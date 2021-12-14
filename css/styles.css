@@ -244,7 +244,8 @@ img {
 .icon-thumb {
   display: flex;
   justify-content: center;
-  padding: 25px 0 25px 0;
+  align-items: center;
+  height: 120px;
   margin-bottom: 30px;
 
   background-color: var(--button-deactive-color);
